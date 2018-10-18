@@ -16,8 +16,4 @@ server.listen(port, hostname, () => {
 });
 //тестване на конфликти, merge-ове
 
-const http = require('http');
-
-const hostname = '127.0.0.1';
-const port = 3000;
 
